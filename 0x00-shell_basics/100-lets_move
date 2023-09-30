@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s extglob\ncp /tmp/+([A-Z])* /tmp/u/
+mv [A-Z]* /tmp/u
