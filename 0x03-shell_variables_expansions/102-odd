@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'FNR%2'
+paste - - | cut -f1
