@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-ssh -i ~/.ssh/school ubuntu@3.85.54.250
+# Connects to serve with privkey ~/.ssh/school
+
+ssh -i ~/.ssh/school ubuntu@98.81.234.189
